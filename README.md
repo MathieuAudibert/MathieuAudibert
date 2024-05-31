@@ -13,7 +13,8 @@
 - **Sports**: Football and sports globally are one of my hobbies, especially PSG <img src="./assets/psg.png" alt="psg" width="1%"/>
 
 ## Current Goals🎯
-I'm currently on the lookout for an apprenticeship in cloud solutions or backend development. I am eager to contribute to a dynamic team where I can apply my skills, learn from industry professionals, and work on exciting projects.
+>[!IMPORTANT]\
+>I'm currently on the lookout for an apprenticeship in cloud solutions or backend development. I am eager to contribute to a dynamic team where I can apply my skills, learn from industry professionals, and work on exciting projects.
 
 ## Socials 📞
 [![Exercism](https://img.shields.io/badge/Exercism-white?style=for-the-badge&logo=exercism&logoColor=white&logoSize=auto&color=16023C)](https://exercism.org/profiles/Cap92)
@@ -61,9 +62,8 @@ I'm currently on the lookout for an apprenticeship in cloud solutions or backend
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" title="R" alt="R" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" title="Azure" alt="Azure" width="55" height="55"/> |
 </div>
 
-# Working on 
-
-#
+# Working on 🧱
+Currently working on https://github.com/MathieuAudibert/TGW-Reporting and https://github.com/MathieuAudibert/3js
 
 
 # Contact me 
