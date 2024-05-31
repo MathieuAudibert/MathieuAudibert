@@ -10,7 +10,7 @@
 
 - **Continuous Learning**: I thrive on acquiring new knowledge and skills, always seeking opportunities to learn and grow in the tech field.
 
-- **Sports**: Football and sports globally are one of my hobbies, especially PSG <img src="./assets/psg.png" alt="psg" width="4%"/>
+- **Sports**: Football and sports globally are one of my hobbies, especially PSG <img src="./assets/psg.png" alt="psg" width="2.5%"/>
 
 ## Current Goals🎯
 >[!IMPORTANT]\
