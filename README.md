@@ -2,15 +2,15 @@
 👋 Bonjour! I'm a 3rd-year student from Paris with a focus on data-oriented development. My passion for learning drives me to constantly expand my skill set and stay updated with the latest technologies.
 
 ## Skills and Interests 💭
-> **Cloud Computing**: I have a solid foundation in AWS and enjoy leveraging its services to build scalable and efficient solutions.
+- **Cloud Computing**: I have a solid foundation in AWS and enjoy leveraging its services to build scalable and efficient solutions.
 
-> **Databases**: Proficient in SQL and experienced with NoSQL databases, I am adept at designing and managing data structures that support robust applications.
+- **Databases**: Proficient in SQL and experienced with NoSQL databases, I am adept at designing and managing data structures that support robust applications.
 
-> **Backend Development**: I have hands-on experience with backend technologies, including shell scripting with Bash and Control-M, to automate and streamline workflows.
+- **Backend Development**: I have hands-on experience with backend technologies, including shell scripting with Bash and Control-M, to automate and streamline workflows.
 
-> **Continuous Learning**: I thrive on acquiring new knowledge and skills, always seeking opportunities to learn and grow in the tech field.
+- **Continuous Learning**: I thrive on acquiring new knowledge and skills, always seeking opportunities to learn and grow in the tech field.
 
-> **Sports**: Football and sports globally are one of my hobbies, especially PSG <img src="./assets/psg.png" alt="psg" width="1.5%"/>
+- **Sports**: Football and sports globally are one of my hobbies, especially PSG <img src="./assets/psg.png" alt="psg" width="1.5%"/>
 
 ## Current Goals🎯
 >[!IMPORTANT]\
@@ -64,6 +64,9 @@
 
 # Working on 🧱
 Currently working on https://github.com/MathieuAudibert/TGW-Reporting and https://github.com/MathieuAudibert/3js
+
+>[!NOTE]\
+> Except for https://github.com/MathieuAudibert/TGW-Reporting, a lot of my public repo are ![Outdated](https://img.shields.io/badge/State-Outdated-red) or ![Draft](https://img.shields.io/badge/Status-Draft-orange) from school projects. 
 
 
 # Contact me 
