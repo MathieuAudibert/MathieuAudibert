@@ -66,7 +66,10 @@
 Currently working on https://github.com/MathieuAudibert/TGW-Reporting and https://github.com/MathieuAudibert/3js
 
 >[!NOTE]\
-> Except for https://github.com/MathieuAudibert/TGW-Reporting, a lot of my public repo are ![Outdated](https://img.shields.io/badge/State-Outdated-red) or ![Draft](https://img.shields.io/badge/Status-Draft-orange) from school projects. 
+> Except for https://github.com/MathieuAudibert/TGW-Reporting, a lot of my public repo are 
+>![Outdated](https://img.shields.io/badge/State-Outdated-red) or ![Draft](https://img.shields.io/badge/Status-Draft-orange) 
+
+>from school projects. 
 
 
 # Contact me 
