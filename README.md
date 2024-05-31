@@ -64,10 +64,10 @@
 
 # Working on 🧱
 ### Solo-Projects 🧨
-Currently working on https://github.com/MathieuAudibert/TGW-Reporting  
+- Currently working on https://github.com/MathieuAudibert/TGW-Reporting  
 
 ### Group-Projects 🔌
-Currently working on https://github.com/MathieuAudibert/3js and https://github.com/IsmaaDevs/ProSend
+- Currently working on https://github.com/MathieuAudibert/3js and https://github.com/IsmaaDevs/ProSend
 
 >[!NOTE]\
 > Except for https://github.com/MathieuAudibert/TGW-Reporting and ProSend, a lot of my repos are <br />
