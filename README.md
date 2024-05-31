@@ -63,12 +63,16 @@
 </div>
 
 # Working on 🧱
-Currently working on https://github.com/MathieuAudibert/TGW-Reporting and https://github.com/MathieuAudibert/3js
+### Solo-Projects 🧨
+Currently working on https://github.com/MathieuAudibert/TGW-Reporting  
+
+### Group-Projects 🔌
+Currently working on https://github.com/MathieuAudibert/3js and https://github.com/IsmaaDevs/ProSend
 
 >[!NOTE]\
-> Except for https://github.com/MathieuAudibert/TGW-Reporting, a lot of my public repo are <br />
->![Outdated](https://img.shields.io/badge/State-Outdated-red)![Draft](https://img.shields.io/badge/Status-Draft-orange) 
+> Except for https://github.com/MathieuAudibert/TGW-Reporting and ProSend, a lot of my repos are <br />
+>![Outdated](https://img.shields.io/badge/State-Outdated-red?style=plastic) ![Drafts](https://img.shields.io/badge/Stage-Draft-orange?style=plastic) 
 
-
-
-# Contact me 
+# Contact me 📧
+![Gmail](https://img.shields.io/badge/mathieu.audibert27@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&color=C11E1E)
+![Outlook](https://img.shields.io/badge/mathieu.audibert@efrei.net-white?style=for-the-badge&logo=microsoft-outlook&logoColor=white&logoSize=auto&color=0072C6)
