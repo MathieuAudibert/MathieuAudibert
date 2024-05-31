@@ -2,12 +2,15 @@
 👋 Bonjour! I'm a 3rd-year student from Paris with a focus on data-oriented development. My passion for learning drives me to constantly expand my skill set and stay updated with the latest technologies.
 
 ## Skills and Interests 💭
->[!IMPORTANT]\
-> - **Cloud Computing**: I have a solid foundation in AWS and enjoy leveraging its services to build scalable and efficient solutions.
-> - **Databases**: Proficient in SQL and experienced with NoSQL databases, I am adept at designing and managing data structures that support robust applications.
-> - **Backend Development**: I have hands-on experience with backend technologies, including shell scripting with Bash and Control-M, to automate and streamline workflows.
-> - **Continuous Learning**: I thrive on acquiring new knowledge and skills, always seeking opportunities to learn and grow in the tech field.
-> - **Sports**: Football and sports globally are one of my hobbies, especially PSG <img src="./assets/psg.png" alt="psg" width="1.5%"/>
+> **Cloud Computing**: I have a solid foundation in AWS and enjoy leveraging its services to build scalable and efficient solutions.
+
+> **Databases**: Proficient in SQL and experienced with NoSQL databases, I am adept at designing and managing data structures that support robust applications.
+
+> **Backend Development**: I have hands-on experience with backend technologies, including shell scripting with Bash and Control-M, to automate and streamline workflows.
+
+> **Continuous Learning**: I thrive on acquiring new knowledge and skills, always seeking opportunities to learn and grow in the tech field.
+
+> **Sports**: Football and sports globally are one of my hobbies, especially PSG <img src="./assets/psg.png" alt="psg" width="1.5%"/>
 
 ## Current Goals🎯
 >[!IMPORTANT]\
