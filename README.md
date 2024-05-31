@@ -10,7 +10,7 @@
 
 - **Continuous Learning**: I thrive on acquiring new knowledge and skills, always seeking opportunities to learn and grow in the tech field.
 
-- **Sports**: Football and sports globally are one of my hobbies, especially PSG <img src="./assets/psg.png" alt="psg" width="1.5%"/>
+- **Sports**: Football and sports are a hobby, especially PSG <img src="./assets/psg.png" alt="psg" width="1.5%"/>
 
 ## Current Goals🎯
 >[!IMPORTANT]\
@@ -60,6 +60,10 @@
 | R | Azure |
 |--------|----|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" title="R" alt="R" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" title="Azure" alt="Azure" width="55" height="55"/> |
+
+## Stats 📈
+![MathieuAudibert's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuAudibert&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 </div>
 
 # Working on 🧱
