@@ -13,7 +13,7 @@
 - **Sports**: Football and sports globally are one of my hobbies, especially PSG <img src="./assets/psg.png" alt="psg" width="1%"/>
 
 ## Current Goals🎯
->[!IMPORTANT]\
+>[!]\
 >I'm currently on the lookout for an apprenticeship in cloud solutions or backend development. I am eager to contribute to a dynamic team where I can apply my skills, learn from industry professionals, and work on exciting projects.
 
 ## Socials 📞
