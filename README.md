@@ -30,8 +30,22 @@ I'm currently on the lookout for an apprenticeship in cloud solutions or backend
 |--------|----|-----|-----|------|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="Python" alt="Python" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" title="JS" alt="JS" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" title="PHP" alt="PHP" width="55" height="55"/> | <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" title="SQL" alt="SQL" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" title="JAVA" alt="JAVA" width="55" height="55"/> |
 
+## SGBD 💾
+| MySQL | PostgreSQL | MongoDB | phpMyAdmin | Aws RDS | SQLite |
+|--------|----|-----|-----|------|------|
+| <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1280px-MySQL.svg.png" title="MySQL" alt="MYSQL" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/2560px-PhpMyAdmin_logo.svg.png" title="phpMyAdmin" alt="phpMyAdmin" width="55" height="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/aws-rds.svg" title="RDS" alt="RDS" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/2560px-SQLite370.svg.png" title="SQLite" alt="SQLite" width="55" height="55"/> |
+
+## AWS 🍊
+| IAM | CLI | RDS | S3 | Boto3 | Ec2 | STS | 
+|--------|----|-----|-----|------|------|------|
+| <img src="https://cdn.worldvectorlogo.com/logos/aws-iam.svg" title="IAM" alt="IAM" width="55" height="55"/> | <img src="https://i.ibb.co/6tMjJtt/image.png" title="CLI" alt="CLI" width="55" height="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/aws-rds.svg" title="RDS" alt="RDS" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/1712px-Amazon-S3-Logo.svg.png" title="S3" alt="S3" width="55" height="55"/> | <img src="https://i.ibb.co/wK6wj1c/image.png" title="BOTO3" alt="BOTO3" width="55" height="55"/> | <img src="https://www.svgrepo.com/show/353449/aws-ec2.svg" title="EC2" alt="EC2" width="55" height="55"/> | <img src="https://i.ibb.co/FHPpj5g/image.png" title="STS" alt="STS" width="55" height="55"/>
+
+## Other ⚙️
+| NodeJS | Git | Pytest | Unittest | Postman | Vmbox | HTML | CSS |
+|--------|----|-----|-----|------|------|
+| <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1280px-MySQL.svg.png" title="MySQL" alt="MYSQL" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/2560px-PhpMyAdmin_logo.svg.png" title="phpMyAdmin" alt="phpMyAdmin" width="55" height="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/aws-rds.svg" title="RDS" alt="RDS" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/2560px-SQLite370.svg.png" title="SQLite" alt="SQLite" width="55" height="55"/> |
 
 ## Learning ⌛️
-
+R  azure
 </div>
 
