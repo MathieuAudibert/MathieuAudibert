@@ -14,7 +14,7 @@
 
 ## Current Goals🎯
 >[!IMPORTANT]\
->I'm currently on the lookout for an apprenticeship in cloud solutions or backend development. I am eager to contribute to a dynamic team where I can apply my skills, learn from industry professionals, and work on exciting projects.
+>I'm currently on the lookout for an **apprenticeship** in *cloud solutions or backend development*. I am eager to contribute to a dynamic team where I can apply my skills, learn from industry professionals, and **work** on exciting projects.
 
 ## Socials 📞
 [![Exercism](https://img.shields.io/badge/Exercism-white?style=for-the-badge&logo=exercism&logoColor=white&logoSize=auto&color=16023C)](https://exercism.org/profiles/Cap92)
