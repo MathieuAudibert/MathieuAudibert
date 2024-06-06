@@ -68,13 +68,13 @@
 
 # Working on 🧱
 ### Solo-Projects 🧨
-- Currently working on https://github.com/MathieuAudibert/TGW-Reporting  
+- Currently working on https://github.com/MathieuAudibert/TGW-Reporting and https://github.com/MathieuAudibert/bank-fraud-detection
 
 ### Group-Projects 🔌
 - Currently working on https://github.com/MathieuAudibert/3js and https://github.com/IsmaaDevs/ProSend
 
 >[!NOTE]\
-> Except for https://github.com/MathieuAudibert/TGW-Reporting and ProSend, a lot of my repos are <br />
+> Except for https://github.com/MathieuAudibert/TGW-Reporting, https://github.com/MathieuAudibert/bank-fraud-detection and ProSend, a lot of my repos are <br />
 >![Outdated](https://img.shields.io/badge/State-Outdated-red?style=plastic) ![Drafts](https://img.shields.io/badge/Stage-Draft-orange?style=plastic) 
 
 # Contact me 📧
