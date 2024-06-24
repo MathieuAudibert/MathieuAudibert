@@ -57,9 +57,9 @@
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png" title="FR" alt="FR" width="100" height="70"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/2560px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" title="EN" alt="EN" width="100" height="70"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1280px-Flag_of_Spain.svg.png" title="ES" alt="ES" width="100" height="70"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1280px-Flag_of_Portugal.svg.png" title="PT" alt="PT" width="100" height="70"/> |
 
 ## Learning ⌛️
-| R | Azure |
-|--------|----|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" title="R" alt="R" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" title="Azure" alt="Azure" width="55" height="55"/> |
+| R | Azure | Terraform | 
+|--------|--------|----|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" title="R" alt="R" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" title="Azure" alt="Azure" width="55" height="55"/> | <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png](https://www.svgrepo.com/show/354447/terraform-icon.svg)" title="tf" alt="tf" width="55" height="55"/>
 
 ## Stats 📈
 ![MathieuAudibert's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuAudibert&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
