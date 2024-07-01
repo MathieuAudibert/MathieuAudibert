@@ -16,18 +16,6 @@
 >[!IMPORTANT]\
 >I'm currently on the lookout for an **apprenticeship** in *cloud solutions or backend development*. I am eager to contribute to a dynamic team where I can apply my skills, learn from industry professionals, and **work** on exciting projects.
 
-## Socials 📞
-[![Exercism](https://img.shields.io/badge/Exercism-white?style=for-the-badge&logo=exercism&logoColor=white&logoSize=auto&color=16023C)](https://exercism.org/profiles/Cap92)
-
-[![Linkedin](https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto&color=1B4FF7)](https://www.linkedin.com/in/mathieu-audibert-2b4763252/)
-
-![Gmail](https://img.shields.io/badge/mathieu.audibert27@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&color=C11E1E)
-
-## Stats 📈
-![MathieuAudibert's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuAudibert&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-</div>
-
 # Working on 🧱
 ### Solo-Projects 🧨
 - Currently working on https://github.com/MathieuAudibert/TGW-Reporting and https://github.com/MathieuAudibert/bank-fraud-detection
@@ -39,6 +27,14 @@
 > Except for https://github.com/MathieuAudibert/TGW-Reporting, https://github.com/MathieuAudibert/bank-fraud-detection and ProSend, a lot of my repos are <br />
 >![Outdated](https://img.shields.io/badge/State-Outdated-red?style=plastic) ![Drafts](https://img.shields.io/badge/Stage-Draft-orange?style=plastic) 
 
-# Contact me 📧
+## Socials 📞
+[![Exercism](https://img.shields.io/badge/Exercism-white?style=for-the-badge&logo=exercism&logoColor=white&logoSize=auto&color=16023C)](https://exercism.org/profiles/Cap92)
+
+[![Linkedin](https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto&color=1B4FF7)](https://www.linkedin.com/in/mathieu-audibert-2b4763252/)
+
 ![Gmail](https://img.shields.io/badge/mathieu.audibert27@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&color=C11E1E)
-![Outlook](https://img.shields.io/badge/mathieu.audibert@efrei.net-white?style=for-the-badge&logo=microsoft-outlook&logoColor=white&logoSize=auto&color=0072C6)
+
+## Stats 📈
+![MathieuAudibert's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuAudibert&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+</div>
