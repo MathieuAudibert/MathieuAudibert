@@ -12,6 +12,10 @@
 
 - **Sports**: Football and sports are a hobby, especially PSG <img src="./assets/psg.png" alt="psg" width="1.5%"/>
 
+# Tools 🔨
+**More about the technologies I use on : https://mathieuaudibert.github.io/**
+
+
 ## Current Goals🎯
 >[!IMPORTANT]\
 >I'm currently on the lookout for an **apprenticeship** in *cloud solutions or backend development*. I am eager to contribute to a dynamic team where I can apply my skills, learn from industry professionals, and **work** on exciting projects.
