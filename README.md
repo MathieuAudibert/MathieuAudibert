@@ -32,6 +32,8 @@
 >![Outdated](https://img.shields.io/badge/State-Outdated-red?style=plastic) ![Drafts](https://img.shields.io/badge/Stage-Draft-orange?style=plastic) 
 
 ## Stats 📈
+<div align="center">
+  
 ![MathieuAudibert's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MathieuAudibert&theme=dark&hide_border=true)
 
 </div>
