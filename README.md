@@ -27,14 +27,14 @@
 > Except for https://github.com/MathieuAudibert/TGW-Reporting, https://github.com/MathieuAudibert/bank-fraud-detection and ProSend, a lot of my repos are <br />
 >![Outdated](https://img.shields.io/badge/State-Outdated-red?style=plastic) ![Drafts](https://img.shields.io/badge/Stage-Draft-orange?style=plastic) 
 
+## Stats 📈
+![MathieuAudibert's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuAudibert&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+</div>
+
 ## Socials 📞
 [![Exercism](https://img.shields.io/badge/Exercism-white?style=for-the-badge&logo=exercism&logoColor=white&logoSize=auto&color=16023C)](https://exercism.org/profiles/Cap92)
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto&color=1B4FF7)](https://www.linkedin.com/in/mathieu-audibert-2b4763252/)
 
 ![Gmail](https://img.shields.io/badge/mathieu.audibert27@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&color=C11E1E)
-
-## Stats 📈
-![MathieuAudibert's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuAudibert&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-</div>
