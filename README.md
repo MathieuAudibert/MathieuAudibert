@@ -25,7 +25,7 @@
 - Currently working on https://github.com/MathieuAudibert/TGW-Reporting and https://github.com/MathieuAudibert/bank-fraud-detection
 
 ### Group-Projects 🔌
-- Currently working on https://github.com/MathieuAudibert/3js and https://github.com/IsmaaDevs/ProSend
+- Currently working on https://github.com/ProSend and https://github.com/IsmaaDevs/ProSend
 
 >[!NOTE]\
 > Except for https://github.com/MathieuAudibert/TGW-Reporting, https://github.com/MathieuAudibert/bank-fraud-detection and ProSend, a lot of my repos are <br />
