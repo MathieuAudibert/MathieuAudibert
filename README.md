@@ -1,4 +1,4 @@
-# Toutes les informations importantes se trouvent ici ⤵️
+# Tout sur moi ⤵️
 
 https://mathieuaudibert.github.io/
 
