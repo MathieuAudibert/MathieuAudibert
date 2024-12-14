@@ -4,5 +4,5 @@ https://mathieuaudibert.github.io/
 
 ## Stats 📈
 <div align="center">
- [![Github Streak](https://github-readme-stats.vercel.app/api?username=MathieuAudibert)](https://github.com/anuraghazra/github-readme-stats)
+ ![MathieuAudibert's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MathieuAudibert&theme=dark&hide_border=true)
 </div>
